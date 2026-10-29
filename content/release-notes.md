@@ -1,5 +1,9 @@
 # Release Notes
 
+## 3.7.1 (Released XX/XX/2026)
+
+TODO
+
 ## 3.7.0 (Released 10/22/2026)
 
 #### Submission Request

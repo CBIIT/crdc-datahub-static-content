@@ -9,7 +9,7 @@ A repository to hold static content for the CRDC Submission Portal (CRDC-DH) pro
 3. Once approved, merge the pull request to publish the changes to the `dev` environment.
 4. Promote changes through LINEAR MERGING PROCESS, ensuring that each environment is updated in sequence (e.g., `dev` → `qa` → `stage` → `prod`).
 
-> [!DANGER]
+> [!WARNING]
 > Do **not** merge changes directly to higher environments without following the linear merging process.
 
 ## Content

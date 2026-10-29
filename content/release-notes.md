@@ -2,15 +2,17 @@
 
 ## 3.7.1 (Released XX/XX/2026)
 
-**Submission request**
+### Submission request
 1.Test1
 2.Test 2
 3.Test 3
-**Data Submission**
+
+### Data Submission
 -	Hello
 - Hello2
-  -Hello3
-**Operation dashboard**
+- Hello3
+  
+### Operation dashboard
 •	HI
 •	HI
 •	HI

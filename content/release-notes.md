@@ -1,8 +1,16 @@
 # Release Notes
 
-## 3.7.1 (Released XX/XX/2026)
+## 3.7.1 (Released 11/16/2026)
 
+#### Data Submission
 
+- Data file upload services are now able to automatically detect certain \
+  data file upload errors earlier in the upload process.
+
+#### Internal & Administrative Tools
+
+- Release procedures now include more efficient and robust content \
+  management processes to streamline software updates.
 
 ## 3.7.0 (Released 10/22/2026)
 
